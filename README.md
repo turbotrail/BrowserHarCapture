@@ -11,3 +11,4 @@ NPM packages are listed in package.json file
 ---run "node test.js" in PWD after installing the prequisites
 ---Browser window will be launched then it can be used for browsing your webapp.
 ---This project can be further customized to mend your needs. this is just a proof of concept.
+--- Browser will stay open and capture har - to exit just navigate to www.google.com it will stop the har capture and close the browser.
